@@ -1,0 +1,22 @@
+# Dépendances
+node_modules/
+
+# Build
+dist/
+
+# Environnements (clés Supabase — ne jamais committer)
+.env
+.env.local
+.env.*.local
+
+# Logs
+*.log
+
+# OS / éditeurs
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Captures de preview (documentation locale, pas du code)
+preview-shots/

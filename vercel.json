@@ -1,0 +1,1 @@
+{"rewrites":[{"destination":"/api/rss","source":"/rss.xml"},{"destination":"/api/sitemap","source":"/sitemap.xml"},{"destination":"/index.html","source":"/(.*)"}]}
